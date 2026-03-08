@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uni Vault</string>
+    <string name="app_description">Uni Vault</string>
+    <string name="developer">shikwonh</string>
+    <string name="website">https://univault-ph.vercel.app/</string>
+</resources>
